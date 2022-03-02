@@ -21,7 +21,6 @@ use hivedemoyoussef
 -- MAGIC #dbutils.fs.mkdirs("dbfs:/youssefmrini")
 -- MAGIC #dbutils.fs.rm("dbfs:/youssefmrini", recurse=True)
 -- MAGIC dbutils.fs.cp("dbfs:/databricks-datasets/amazon/data20K","dbfs:/youssefmrini/amazon", recurse=True)
--- MAGIC #dbutils.fs.cp("dbfs:/databricks-datasets/amazon/data20K","dbfs:/youssefmrini/amazondelta", recurse=True)
 
 -- COMMAND ----------
 
