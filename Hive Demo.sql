@@ -18,6 +18,10 @@ use hivedemoyoussef
 
 -- COMMAND ----------
 
+select "hello"
+
+-- COMMAND ----------
+
 -- MAGIC %python
 -- MAGIC #dbutils.fs.mkdirs("dbfs:/youssefmrini")
 -- MAGIC #dbutils.fs.rm("dbfs:/youssefmrini", recurse=True)
