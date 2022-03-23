@@ -1,6 +1,5 @@
 -- Databricks notebook source
 --show databases
--- COMMENT LIGNE
 
 -- COMMAND ----------
 
