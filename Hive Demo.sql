@@ -5,6 +5,10 @@
 
 -- COMMAND ----------
 
+select "youssef"
+
+-- COMMAND ----------
+
 -- MAGIC %python
 -- MAGIC 
 -- MAGIC dbutils.fs.ls("dbfs:/databricks-datasets/amazon/data20K")
