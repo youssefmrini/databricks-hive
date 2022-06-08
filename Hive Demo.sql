@@ -1,4 +1,8 @@
 -- Databricks notebook source
+select "hello"
+
+-- COMMAND ----------
+
 --show databases
 -- comment
 -- Hello my session
