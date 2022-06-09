@@ -3,6 +3,10 @@ select "hello"
 
 -- COMMAND ----------
 
+select "hello from rbi"
+
+-- COMMAND ----------
+
 --show databases
 -- comment
 -- Hello my session
