@@ -7,7 +7,7 @@ select "hello"
 
 -- COMMAND ----------
 
-select "hello from rbi"
+select "hello from Kerry"
 
 -- COMMAND ----------
 
