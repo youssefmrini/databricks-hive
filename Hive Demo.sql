@@ -3,7 +3,9 @@
 
 -- COMMAND ----------
 
-select "hello"
+select "hello";
+
+select "ITV"
 
 -- COMMAND ----------
 
